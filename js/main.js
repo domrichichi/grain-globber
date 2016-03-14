@@ -4,4 +4,6 @@ grains.forEach(function (item) {
   var $img = $('<img>');
   var $p = $('<p>');
   var $h2 = $('<h2>');
-}
+
+  $ul.append('li');
+});
