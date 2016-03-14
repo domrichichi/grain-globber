@@ -1,4 +1,5 @@
 grains.forEach(function (item) {
   var $li = $('<li>');
-  var $li = $('<img>');
+  var $img = $('<img>');
+  var $p = $('<p>');
 }
