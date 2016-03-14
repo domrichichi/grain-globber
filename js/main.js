@@ -6,4 +6,5 @@ grains.forEach(function (item) {
   var $h2 = $('<h2>');
 
   $ul.append('li');
+  $img.attr('src', 'images/' + item.img');
 });
